@@ -2,29 +2,29 @@
     <img src="images/pedals.jpg">
 </p>
 
-### Summary
+## Summary
 
 This repo is a list of common types of guitar pedals.
 
-### Pedals
+## Pedals
 
 [Overview](#overview)
 
 - [Chorus](#chorus)
-- [Compressor & Sustainer](#compressor-sustainer)
-- [Delay & Echo](#delay-echo)
-- [Distortion & Overdrive](#distortion-overdrive)
+- [Compressor and Sustainer](#compressor-and-sustainer)
+- [Delay and Echo](#delay-and-echo)
+- [Distortion and Overdrive](#distortion-and-overdrive)
 - [Flanger](#flanger)
 - [Fuzz](#fuzz)
-- [Looper & Sampler](#looper-sampler)
+- [Looper and Sampler](#looper-and-sampler)
 - [Multi-effects](#multi-effects)
-- [Phaser & Shifter](#phaser-shifter)
+- [Phaser and Shifter](#phaser-and-shifter)
 - [Reverb](#reverb)
 - [Tremolo](#tremolo)
 - [Vibrato](#vibrato)
 - [Wah-wah](#wah-wah)
 
-### Overview
+## Overview
 
 Long gone are the days when being a rock guitarist meant all you needed was a guitar and an amp.  Today, every rock guitarist goes on stage with approximately 10 different guitar effects pedals.  Each pedal is designed to get the perfect sound for every possible situation.
 
@@ -59,7 +59,7 @@ __Vibrato Pedals__ are used to electronically add vibrato to single notes or cho
 __Wah and Volume Pedals__ are used to boost certain frequencies.  Wah pedals are often used in Hard Rock and Heavy Metal to add some real tone to an otherwise dry guitar sound.
 
 
-### Chorus
+## Chorus
 
 Want to make your guitar sound like a full orchestra?  Well, with a chorus pedal you can!  
 
@@ -87,7 +87,7 @@ __Depth Knob__ - To control the modulation that is added to the wet signal, simp
 The more that you increase the Rate and Knob, the fuller your guitar will sound.  However, when using a Chorus Pedal, there is always a balance that must be maintained.  You must experiment with the knobs on your own to decide what settings sound the best.
 
 
-### Compressor & Sustainer
+## Compressor and Sustainer
 
 Compressor Pedals smooth out the sound, specifically the dynamics, of your guitar.  This is accomplished by softening the strong attacks and amplifying the weak attacks.
 
@@ -108,7 +108,7 @@ The amount of sustain in a guitar is what separates good guitars from great guit
 A Sustain Pedal will enable you to let any note you play, distorted or otherwise, ring out for as long as you wish.  Sustaining sound is so important that every piano has a sustain pedal built into it.  In a perfect world, every guitar should come with a sustain pedal, but that is not the case.  However, adding a sustain pedal to your arsenal is very easy and affordable.
 
 
-### Delay & Echo
+## Delay and Echo
 
 The delay effects pedal (sometimes referred to as an echo effects pedal) has become a crucial part of every rock guitarists arsenal.  Practically every famous rock musician from 1980 until present day walks onstage with their favorite analog or digital delay pedal tweeked to perfection.
 
@@ -134,7 +134,7 @@ __Long Delay Times__: 200 to 300ms (milliseconds).  Longer delay times make a gu
 Most delay pedals let you change the delay time manually with a knob.  This is a very important when it comes time to buy a delay pedal.
 
 
-### Distortion & Overdrive
+## Distortion and Overdrive
 
 Distortion and Overdrive Pedals are the essence of Rock, Blues and Heavy Metal.  These pedals create the gritty, crunchy sounds that make the electric guitar worth listening to.  
 
@@ -161,7 +161,7 @@ __Distortion/Overdrive Knob on 9-10__:  This setting is for MAXIMUM DISTORTION a
 When using distortion, always use the bridge pickup on your guitar (the pickup that is close to the bridge and furthest away from the neck).  This will add maximum bite to your tone and let the distortion cut through.  The neck pickup is seldom used.
 
 
-### Flanger
+## Flanger
 
 Originally created in 1966, Flanger Pedals are like very much like Phasers Pedals, but with much more attitude.  They enable you the create a cycling "whooshing" sound similar to the sound created by the engine of a flying jet airplane.  The flanging effect is very pronounced and more dramatic than a Phaser Pedal.
 
@@ -187,7 +187,7 @@ Flanger Pedals generally have a knob labeled as "Speed" or "Rate".  It is this k
 Flanger Pedals are many guitarists favorite toys.  The massive harmonic capabilities that it posesses make it a must for any guitar pedal enthusiast.
 
 
-### Fuzz
+## Fuzz
 
 Imagine if you could crank your distortion to "40" instead of "10".  That is the sound of fuzz!  It is much rougher than the sound of distortion.
 
@@ -212,7 +212,7 @@ For a more stable and consistent fuzz sound, the fuzz pedals being created today
 Great fuzz pedals with Silicon transistors include the MXR M173 Silicon Fuzz Guitar Effects Pedal, which is an easy way to get a great consistent fuzz sound in a simple device, and the Hartman Electronics BC108 Silicon Fuzz Pedal, if you are in need of more knobs to dial in the perfect fuzz tone.
 
 
-### Looper & Sampler
+## Looper and Sampler
 
 A Looper Pedal (or a Sampler Pedal as some people like to call it) is used to create several layers of melody and rhythm during a live performance with the use of only one guitar.
 
@@ -241,7 +241,7 @@ The advantage of using a Looper Pedal as substitute for a drummer is that a Loop
 Experiment with a Looper Pedal.  As more and more tracks are layered on top of each other, the sound of a full band is steadily achieved as all the layered tracks weave in and out of each other.  Even in a practice situation, a Looper Pedal usually translates to endless hours of fun and experimentation that help build you musically.
 
 
-### Multi-effects
+## Multi-effects
 
 Distortion, Delay, Reverb, Wah, Flange, Modulation, Phasing, Compression, Overdrive, Fuzz, Looping, Sampling, Chorus ... the list is practically endless.
 
@@ -258,7 +258,7 @@ The expensive Multi-Effects pedals generally offer a million different sounds an
 The affordable Multi-Effects pedals are usually more practical than giant guitar rigs because they are simpler to use, they weigh less, are easy to carry around, and most importantly, offer dozens of effects for a much cheaper price.
 
 
-### Phaser & Shifter
+## Phaser and Shifter
 
 Phasers and Shifters, sometimes called "Phase Shifters", are two different names for the same pedal.  They create a repeating "whooshing" sound similar to the sound of a jet airplane as it flies by.  The "whooshing" sound is created in cycles.  The speed of each cycle is controlled by a rate knob (explained below).  This enables you to control how intense a phasing sound you want to create.
 
@@ -280,7 +280,7 @@ To control the rate at which the oscillator oscillates, phaser pedals have a kno
 The best way to learn how to use a Phaser is to experiment with one on your own.
 
 
-### Reverb
+## Reverb
 
 Ever wonder why grand pianos are far more superior than upright pianos?  REVERB is the answer.  Pianists often spend over $100,000 or more on a single grand piano that will create them the reverb they desire.  In this case, the large size of the grand piano is necessary to create this reverb.
 
@@ -309,7 +309,7 @@ For the majority of situations, you need to add a small bit of reverb to your gu
 For some situations, you can set the reverb to more than 30%.  This will truly make your guitar sound "grand" and add character to your sound.  An example of this can be heard in the song "Comfortably Numb" by the famous classic rock band, Pink Floyd.  In this song distortion and reverb are combined to create a powerful and grand guitar tone that screams beautiful tone.
 
 
-### Tremolo
+## Tremolo
 
 A Tremolo Pedal creates a pulsing of the volume from your guitar signal.  It simulates turning the volume of your guitar up and down quickly using your volume knob.  The Tremolo sound is often confused with a fast vibrato.  It is important to keep in mind that only the volume is quickly changing, while the pitch remains the same.
 
@@ -330,7 +330,7 @@ __A Volume Knob__ controls the sound of your original guitar signal in relation 
 If you are interested in an affordable pedal with just the basics (Speed and Intensity Knobs) then try the Rocktron Pulse Tremolo Pedal.  If you're interested in total control of your tremolo sound with all 4 knobs available, then the Voodoo Lab Tremolo Pedal is a great choice.
 
 
-### Vibrato
+## Vibrato
 
 Natural vibrato is one of the purest and most musical forms of expression available to a guitarist.  For many, it is the reason they play the guitar instead of the piano.  A guitarist creates a vibrato by wiggling the finger against the string when it is played.  This raises the note from natural to sharp and back again.
 
@@ -358,7 +358,7 @@ What if you wanted to play open chords on the guitar with vibrato?  It is imposs
 A Vibrato Pedal can be used to add the necessary vibrato to all 6 strings.  Simply preset the "Speed" and "Depth" knobs to a setting that matches your tastes and play any chord.  The pedal will add a vibrato to the full chord.  This will give a standard rhythm part or chord progression much more character and appeal.
 
 
-### Wah-wah
+## Wah-wah
 
 A Wah-wah Pedal, or Wah Pedal for short, boosts certain frequencies of your guitar signal.  A Wah Pedal alters your guitar tone, creating a unique sound effect that is similar to a human saying "Wahhhh".
 
