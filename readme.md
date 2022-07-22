@@ -12,10 +12,10 @@ This repo is a description of common types of guitar pedals.
 - [Distortion and Overdrive](#distortion-and-overdrive)
 - [Fuzz](#fuzz)
 - [Compressor](#compressor)
+- [Wah](#wah)
 
 #### Modulation Based & Other Effects
 
-- [Wah](#wah)
 - [Vibrato](#vibrato)
 - [Tremolo](#tremolo)
 - [Chorus](#chorus)
@@ -24,19 +24,18 @@ This repo is a description of common types of guitar pedals.
 - [Phaser](#phaser)
 - [Flanger](#flanger)
 
-### Noise Reduction
+#### Noise Gate
 
-- [Noise Reduction](#noise-reduction)
+- [Noise Gate](#noise-reduction)
 
-### Time Based
+#### Time Based
 
 - [Delay](#delay)
 - [Reverb](#reverb)
 - [Looper](#looper)
 
 
-
-# Distortion and Overdrive
+# [Distortion](https://youtu.be/VQXaCFr8ePU?t=92) and [Overdrive](https://youtu.be/VQXaCFr8ePU?t=72)
 
 Distortion and overdrive pedals simulate the natural breakup from an overdriven amp. They are the essence of Rock, Blues and Heavy Metal. These pedals create the gritty, crunchy sounds that make the electric guitar worth listening to.  
 
@@ -66,7 +65,10 @@ __Muting__ - since distortion compresses the sound, more care must be taken to m
 
 You can optionally set your distortion volume to be 10% higher than your clean volume.
 
-# Fuzz
+### Videos
+
+
+# [Fuzz](https://youtu.be/VQXaCFr8ePU?t=125)
 
 Fuzz pedals are extreme distortion pedals. They make a guitar sound fuzzy.
 
@@ -77,7 +79,7 @@ Fuzz pedals are extreme distortion pedals. They make a guitar sound fuzzy.
 - Much dirtier/rougher sound, that distortion/overdrive alone cannot produce.
 
 
-# Compressor
+# [Compressor](https://youtu.be/tH7T96MyxB4?t=188)
 
 Compressors smooth out the dynamics of a guitar. The goal is to make all notes sound at a similar volume. For loud attacks, the volume is lowered. For soft attacks, the volume is increased.
 
@@ -99,10 +101,10 @@ Sustainers make the sound of your guitar ring out for as long as you wish, _even
 
 ### Disadvantages
 
-Compressing the volume is not always desirable. Guitar's with a compressed volume sound more robotic.
+Compressing the volume is not always desirable. Guitars with a compressed volume sound more robotic.
 
 
-# Wah
+# [Wah](https://youtu.be/qTbuDObjZoA?t=35)
 
 Wah pedals boost certain frequencies of your guitar signal (alternating from low to high)
 
@@ -135,7 +137,7 @@ __Tom Morello__ (AudioSlave, Rage Against the Machine) uses a wah pedal in multi
 __John Frusciante__ (Red Hot Chili Peppers) used a wah pedal in the majority of his solos while on tour, including two of the popular songs [Californication](https://youtu.be/6L0LIo35sF4) and [Soul to Squeeze](https://youtu.be/0XcN12uVHeQ).
 
 
-# Vibrato
+# [Vibrato](https://youtu.be/HTPdB3McWpQ)
 
 Vibrato pedals are used to electronically add vibrato to single notes or chords. A natural vibrato done with the finger can only sharpen a note (since guitars are fretted), but a vibrato pedal can repeatedly sharpen and flatten a pitch.
 
@@ -160,7 +162,7 @@ Adding vibrato to chords, using your fingers, is difficult since you need to add
 Vibrato pedals can give standard rhythm parts or chord progressions much more character and appeal.
 
 
-# Tremolo
+# [Tremolo](https://youtu.be/oOCNB1izw8A?t=33)
 
 Tremolo pedals are used to create a pulsing of the volume of your guitar signal. The effect is similar to quickly raising and lowering the volume of your guitar using your guitar volume knob.
 
@@ -181,7 +183,7 @@ __A Slope Knob__ is available on some tremolo pedals. It is somewhat of an exten
 __A Volume Knob__ controls the sound of your original guitar signal in relation to the pulsing tremolo signal. If you want the tremolo effect to fully replace your original guitar sound, set a very low volume knob.  If you want a tremolo effect that is subtle and low in volume, set the volume knob higher so that your original guitar sound rings out.
 
 
-# Chorus
+# [Chorus](https://youtu.be/zmN7fK3fKUE?t=41)
 
 Chorus pedals are used to create a full, orchestral sound. The goal is to make one guitar sound like multiple copies of the same guitar.
 
@@ -207,19 +209,21 @@ __Depth Knob__ - controls the modulation of the wet signal. Increase the depth t
 The more that you increase the rate and depth knobs, the fuller your guitar will sound.
 
 
-# Pitch Shifter
+# [Pitch Shifter](https://youtu.be/wHh1LfoeypM?t=58)
 
 Pitch shifters are used to alter the pitch of a guitar. They take a single pitch, and shift it by an amount, such an octave, up or down.
 
+They are usually controlled by a rocking foot pedal.
 
-# Harmonizer
+
+# [Harmonizer](https://youtu.be/wHh1LfoeypM?t=114)
 
 Harmonizers _fatten_ a guitar sound by providing an additional 1-3 more voices in harmony, such as octaves, 4ths, 5ths, etc.
 
 Harmonizers are often built into the same pedal as a pitch shifters
 
 
-# Phaser
+# [Phaser](https://youtu.be/0T_L4qYRi7s?t=37)
 
 Phasers create a repeating _whooshing_ sound similar to the sound of a jet airplane as it flies by. A phaser can be set to sound like a subtle whoosh to complete a guitar tone, or a dramatic cycling jet airplane sonic effect.
 
@@ -238,7 +242,7 @@ Each phaser has an oscillator that continually changes the amount (in degrees fr
 The _speed_ or _rate_ knob controls the speed of the oscillator (which shifts the out-of-phase signal). Increasing the speed will increase how fast the repetitions of the _whoosh_ sound are heard.
 
 
-# Flanger
+# [Flanger](https://youtu.be/NAqQvs_WXs8?t=23)
 
 Flangers are like phasers, but much more dramatic.
 
@@ -249,12 +253,12 @@ Flangers create a deep cycling _whooshing_ sound, similar to when a plane takes 
 Flangers are like phasers with a feedback knob. For flangers, the wet signal is fed back to itself multiple times (which is controlled by the _feedback_ knob). That means the out-of-phase signal is continuously shifted in and out of phase, which is what makes flangers sound much more powerful than phasers.
 
 
-# Noise Reduction
+# [Noise Gate](https://youtu.be/mVTgIKaOCWQ?t=46)
 
-A noise reduction pedal removes all sound below a certain threshold. It is tricky to set, as you don't want it removing the tail end of your long notes.
+A noise gate pedal removes all sound below a certain threshold. It is tricky to set, as you don't want it removing the tail end of your long notes.
 
 
-# Reverb
+# [Reverb](https://youtu.be/TZG2K0J_A3c?t=58)
 
 Reverb pedals make a guitar sound _grander_ by adding sustain and echo, that can simulate playing in either a small room or a large concert hall. Reverb replicates the natural echo you would receive in such large venues. Without reverb, a guitar signal can sound short and dry.
 
@@ -280,7 +284,7 @@ The same concepts apply to lead guitar as they do to rhythm guitar when applying
 A gated reverb closes off the end of the reverb tail at a given millisecond setting, and can yield some interesting percussive effects.
 
 
-# Delay
+# [Delay](https://youtu.be/9LWRgA597O4?t=43)
 
 A delay pedal (also called an _echo_ pedal) repeats the original sound of a guitar at a given time interval. It creates an echo from your guitar. This echo can be a slow echo, as you would hear in a big cave, or a fast echo that you would hear in a small room. The echo makes your guitar sound "richer" and "fuller".
 
@@ -298,7 +302,7 @@ Most delay pedals have a knob that alters the delay time.
 
 You can sound like you're playing 16th notes, while only playing 8th notes. Physically play 8th notes, but adjust your delay pedal properly (based on the tempo of the song) so that it plays exactly in between your 8th notes (so that it sounds like 16th notes)
 
-# Looper
+# [Looper](https://youtu.be/EPYYNzFkl9Q?t=32)
 
 Loopers (also called samplers) are used to capture a musical phrase and continuously repeat it. They can be used to layer multiple guitar parts over a looped rhythm track. You can create several layers of melody and rhythm during a live performance with the use of only one guitar.
 
