@@ -79,7 +79,7 @@ Fuzz pedals are extreme distortion pedals. They make a guitar sound fuzzy.
 - Much dirtier/rougher sound, that distortion/overdrive alone cannot produce.
 
 
-# [Compressor](https://youtu.be/tH7T96MyxB4?t=188)
+# [Compressor](https://youtu.be/tH7T96MyxB4?t=134)
 
 Compressors smooth out the dynamics of a guitar. The goal is to make all notes sound at a similar volume. For loud attacks, the volume is lowered. For soft attacks, the volume is increased.
 
