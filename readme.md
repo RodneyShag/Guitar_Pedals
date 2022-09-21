@@ -65,8 +65,6 @@ __Muting__ - since distortion compresses the sound, more care must be taken to m
 
 You can optionally set your distortion volume to be 10% higher than your clean volume.
 
-### Videos
-
 
 # [Fuzz](https://youtu.be/VQXaCFr8ePU?t=125)
 
