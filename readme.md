@@ -26,7 +26,7 @@ This repo is a description of common types of guitar pedals.
 
 #### Noise Gate
 
-- [Noise Gate](#noise-reduction)
+- [Noise Gate](#noise-gate)
 
 #### Time Based
 
@@ -206,6 +206,10 @@ __Depth Knob__ - controls the modulation of the wet signal. Increase the depth t
 
 The more that you increase the rate and depth knobs, the fuller your guitar will sound.
 
+### Songs with Chorus Effect
+
+- [Nirvana - Come As You Are](https://youtu.be/vabnZ9-ex7o?si=I759LNuKMp5Wu-Xf) - guitar in intro.
+- [Prince - Purple Rain](https://youtu.be/347vCib_lMs?si=R3hLdMMf2JdDdATk) - guitar in intro.
 
 # [Pitch Shifter](https://youtu.be/wHh1LfoeypM?t=58)
 
