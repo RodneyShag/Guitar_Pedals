@@ -24,7 +24,7 @@ This repo is a description of common types of guitar pedals.
 - [Phaser](#phaser)
 - [Flanger](#flanger)
 
-#### Noise Gate
+#### Noise Removal
 
 - [Noise Gate](#noise-gate)
 
