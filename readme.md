@@ -7,6 +7,11 @@ This repo is a description of common types of guitar pedals.
 
 # Pedals
 
+
+#### Noise Removal
+
+- [Noise Gate](#noise-gate)
+
 #### Tone Shaping
 
 - [Distortion and Overdrive](#distortion-and-overdrive)
@@ -24,16 +29,16 @@ This repo is a description of common types of guitar pedals.
 - [Phaser](#phaser)
 - [Flanger](#flanger)
 
-#### Noise Removal
-
-- [Noise Gate](#noise-gate)
-
 #### Time Based
 
 - [Delay](#delay)
 - [Reverb](#reverb)
 - [Looper](#looper)
 
+
+# [Noise Gate](https://youtu.be/mVTgIKaOCWQ?t=46)
+
+A noise gate pedal removes all sound below a certain threshold. It is tricky to set, as you don't want it removing the tail end of your long notes.
 
 # [Distortion](https://youtu.be/VQXaCFr8ePU?t=92) and [Overdrive](https://youtu.be/VQXaCFr8ePU?t=72)
 
@@ -253,11 +258,6 @@ Flangers create a deep cycling _whooshing_ sound, similar to when a plane takes 
 ### Additional Feedback Knob
 
 Flangers are like phasers with a feedback knob. For flangers, the wet signal is fed back to itself multiple times (which is controlled by the _feedback_ knob). That means the out-of-phase signal is continuously shifted in and out of phase, which is what makes flangers sound much more powerful than phasers.
-
-
-# [Noise Gate](https://youtu.be/mVTgIKaOCWQ?t=46)
-
-A noise gate pedal removes all sound below a certain threshold. It is tricky to set, as you don't want it removing the tail end of your long notes.
 
 
 # [Reverb](https://youtu.be/TZG2K0J_A3c?t=58)
