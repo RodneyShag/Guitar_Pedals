@@ -18,6 +18,7 @@ This repo is a description of common types of guitar pedals.
 - [Fuzz](#fuzz)
 - [Compressor](#compressor)
 - [Wah](#wah)
+- [Boost](#boost)
 
 #### Modulation Based & Other Effects
 
@@ -138,6 +139,14 @@ __Kirk Hammett__ (Metallica) uses the wah pedal on multiple guitar solos. Listen
 __Tom Morello__ (AudioSlave, Rage Against the Machine) uses a wah pedal in multiple songs including [Bombtrack](https://youtu.be/MUaL1FnotRQ), [Guerrilla Radio](https://youtu.be/n6cBRx2Ie6A) and [Bulls on Parade](https://youtu.be/my6bfA14vMQ).
 
 __John Frusciante__ (Red Hot Chili Peppers) used a wah pedal in the majority of his solos while on tour, including two of the popular songs [Californication](https://youtu.be/6L0LIo35sF4) and [Soul to Squeeze](https://youtu.be/0XcN12uVHeQ).
+
+
+# [Boost](https://www.youtube.com/watch?v=ajNcWOWRhpQ)
+
+Add a volume boost in your signal chain to control your volume with a footswitch. You have 2 options:
+
+1. Boost before distortion, results in more distortion (but less volume gain, since the distortion pedal compresses the boost)
+2. Boost after distortion, results in a volume boost (preferred).
 
 
 # [Vibrato](https://youtu.be/HTPdB3McWpQ)
